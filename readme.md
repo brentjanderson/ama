@@ -2,7 +2,7 @@
 
 ## [Ask a question](https://github.com/brentjanderson/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/brentjanderson/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-See my [favorite/popular/frequently asked](https://github.com/brentjanderson/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/brentjanderson/ama/labels) to sort the questions by ([work in progress](https://github.com/brentjanderson/ama/issues/424)).
+See my [favorite/popular/frequently asked](https://github.com/brentjanderson/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/brentjanderson/ama/labels) to sort the questions by work in progress.
 
 I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
 
