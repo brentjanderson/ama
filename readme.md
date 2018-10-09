@@ -35,7 +35,7 @@ All questions are welcome but not all questions will be answered by me. Some que
 Some answers may be in the form of [audio clips](https://github.com/brentjanderson/ama/labels/audio-answer) or [videos](https://github.com/brentjanderson/ama/labels/video-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
 
 #### Other contact mediums
-I can also be reached on [Twitter](https://twitter.com/brentjanderson) and [email](mailto:me+ama@brentjanderson.com), but I prefer [this medium](https://github.com/brentjanderson/ama/issues/new).
+I can also be reached on [Mastodon](https://mastodon.social/@bja), [Twitter](https://twitter.com/brentjanderson) and [email](mailto:me+ama@brentjanderson.com), but I prefer [this medium](https://github.com/brentjanderson/ama/issues/new).
 
 ### Links
 
